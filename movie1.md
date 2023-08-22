@@ -1,5 +1,5 @@
-Film 1 : "Magnolia"
-Réalisateur : Paul Thomas Anderson
+Film 1 : "Resident Evil"
+Réalisateur : Paul W.S. Anderson
 Genre : Drame
 Année : 1999
 
